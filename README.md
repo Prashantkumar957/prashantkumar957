@@ -10,9 +10,9 @@
 - 🎵 Exploring **SpringBoot** and **Android Development**.
 - 💡 Passionate about **Backend**, **Firebase**, and **APIs**.
 - 🎨 Created projects like **Jan Saarthi**, **AKTU Notes**, and **Blood Bank**.
-- 🏆 Finalist at **Hack the Hills** Hackathon at **IIIT Una**.
-- 🏆 Under Top 20 at **HackSpire** Hackathon at **Thapar University**.
-- 📫 Reach me at [prashantkumar@gmail.com](mailto:prashantkumar@gmail.com)
+- 🏆 Finalist at **Nature First at GL BAJAJ
+- 🏆 Under Top 20 at **CSMU** Hackathon at **Chandigarh University**.
+- 📫 Reach me at [prashantkumar@gmail.com](mailto:prashantkumar957@gmail.com)
 
 ---
 

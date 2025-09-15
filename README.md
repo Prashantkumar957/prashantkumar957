@@ -6,7 +6,7 @@
 ---
 
 ## 🔥 About Me
-- 🚀 I’m currently working on **SpringBoot**.
+- 🚀 I’m currently working on **SpringBoot & Web Development**.
 - 🎵 Exploring **SpringBoot** and **Android Development**.
 - 💡 Passionate about **Backend**, **Firebase**, and **APIs**.
 - 🎨 Created projects like **Jan Saarthi**, **AKTU Notes**, and **Blood Bank**.

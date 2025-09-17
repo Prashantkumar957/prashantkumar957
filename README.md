@@ -7,7 +7,7 @@
 
 ## 🔥 About Me
 - 🚀 I’m currently working on **SpringBoot & Web Development**.
-- 🎵 Exploring **SpringBoot** and **Android Development**.
+- 🎵 Exploring **Blockchain** and **Android Development**.
 - 💡 Passionate about **Backend**, **Firebase**, and **APIs**.
 - 🎨 Created projects like **Jan Saarthi**, **AKTU Notes**, and **Blood Bank**.
 - 🏆 Finalist at **Nature First at GL BAJAJ
